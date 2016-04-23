@@ -7,4 +7,7 @@ theme = "hyde"
 themeColor = "theme-base-09"
 layoutReverse = true
 description = "Community builder, developer, traveller & chef. I like putting people, ideas & ingredients together... and bacon. I really like bacon."
-twitter = "gitbisect"
+
+[[menu.main]]
+name = "@gitbisect"
+url = "https://twitter.com/gitbisect"
