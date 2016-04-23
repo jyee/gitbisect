@@ -1,0 +1,10 @@
+baseurl = "http://gitbisect.com/"
+languageCode = "en-us"
+title = "Git Bisect"
+theme = "hyde"
+
+[params]
+themeColor = "theme-base-09"
+layoutReverse = true
+description = "Community builder, developer, traveller & chef. I like putting people, ideas & ingredients together... and bacon. I really like bacon."
+twitter = "gitbisect"
