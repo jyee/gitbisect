@@ -1,7 +1,8 @@
 +++
 date = "2016-04-22T18:04:36-07:00"
-draft = false
 title = "Software Sucks. Software is Amazing."
+Categories = ["Code"]
+Tags = ["DevOps", "Software", "Infrastructure"]
 
 +++
 
